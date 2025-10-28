@@ -3,11 +3,11 @@
     "name": "Halloween 25",
     "packages": {
       "7094142": {
-        "type": "kill"
+        "type": "kill",
         "rarity": "common"
       }, 
       "7094132": {
-        "type": "kill"
+        "type": "kill",
         "rarity": "uncommon"
       }
     }
