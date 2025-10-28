@@ -2,11 +2,11 @@
   {
     "name": "Halloween 25",
     "packages": {
-      7094142: {
+      "7094142": {
         "type": "kill"
         "rarity": "common"
       }, 
-      7094132: {
+      "7094132": {
         "type": "kill"
         "rarity": "uncommon"
       }
@@ -14,6 +14,10 @@
   },
   {
     "name": "Goofies",
-    "packages": [7094182]
+    "packages": {
+      "7094182": {
+        "type": "arrow",
+        "rarity": "rare"
+      }
   }
 ]
