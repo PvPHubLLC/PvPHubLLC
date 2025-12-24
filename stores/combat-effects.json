@@ -5,11 +5,12 @@
       "7094142": {
         "type": "kill",
         "rarity": "common",
-        "preview": "bike.mp4"
+        "preview": "/bike.mp4"
       }, 
       "7094132": {
         "type": "kill",
-        "rarity": "uncommon"
+        "rarity": "uncommon",
+        "preview": "/dismantle.mp4"
       }
     }
   },
