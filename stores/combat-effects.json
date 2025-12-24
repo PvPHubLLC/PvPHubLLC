@@ -4,7 +4,8 @@
     "packages": {
       "7094142": {
         "type": "kill",
-        "rarity": "common"
+        "rarity": "common",
+        "preview": "bike.mp4"
       }, 
       "7094132": {
         "type": "kill",
