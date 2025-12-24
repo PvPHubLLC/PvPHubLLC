@@ -19,7 +19,8 @@
     "packages": {
       "7094182": {
         "type": "kill",
-        "rarity": "rare"
+        "rarity": "rare",
+        "preview": "/coconut.mp4"
       }
     }
   }
