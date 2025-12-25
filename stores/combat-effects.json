@@ -5,17 +5,22 @@
     "packages": {
       "7094142": {
         "type": "kill",
-        "rarity": "mythic",
+        "rarity": "ancient",
         "preview": "/gift_wrapped.mp4"
       }, 
       "7094132": {
         "type": "kill",
         "rarity": "mythic",
         "preview": "/snow_globe.mp4"
-      }, 
-      "0": {
+      },
+      "7187932": {
         "type": "kill",
         "rarity": "mythic",
+        "preview": "/snowman.mp4"
+      },
+      "7187934": {
+        "type": "kill",
+        "rarity": "legendary",
         "preview": "/snow_balled.mp4"
       }
     }
@@ -28,34 +33,39 @@
         "rarity": "celestial",
         "preview": "/dismantle.mp4"
       },
-      "7187430": {
+      "7094182": {
         "type": "kill",
-        "rarity": "ancient",
-        "preview": "/tnterrified.mp4"
+        "rarity": "epic",
+        "preview": "/ez_player.mp4"
       },
       "7187434": {
         "type": "kill",
-        "rarity": "mythic",
+        "rarity": "epic",
         "preview": "/explode.mp4"
+      },
+      "7187430": {
+        "type": "kill",
+        "rarity": "rare",
+        "preview": "/head_explode.mp4"
       }
     }
   },
   {
     "name": "Goofies",
     "packages": {
-      "0": {
+      "7187938": {
         "type": "kill",
-        "rarity": "legendary",
-        "preview": "/dismantle.mp4"
+        "rarity": "ancient",
+        "preview": "/helicopter.mp4"
       },
-      "1": {
+      "7187939": {
         "type": "kill",
-        "rarity": "legendary",
-        "preview": "/explode.mp4"
+        "rarity": "mythic",
+        "preview": "/bike.mp4"
       },
-      "7094182": {
+      "7187941": {
         "type": "kill",
-        "rarity": "legendary",
+        "rarity": "rare",
         "preview": "/coconut.mp4"
       }
     }
