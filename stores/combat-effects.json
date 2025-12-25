@@ -1,25 +1,61 @@
 [
   {
-    "name": "Halloween 25",
+    "name": "Christmas Specials",
+    "limited": true,
     "packages": {
       "7094142": {
         "type": "kill",
-        "rarity": "common",
-        "preview": "/bike.mp4"
+        "rarity": "mythic",
+        "preview": "/gift_wrapped.mp4"
       }, 
       "7094132": {
         "type": "kill",
-        "rarity": "uncommon",
+        "rarity": "mythic",
+        "preview": "/snow_globe.mp4"
+      }, 
+      "0": {
+        "type": "kill",
+        "rarity": "mythic",
+        "preview": "/snow_balled.mp4"
+      }
+    }
+  },
+  {
+    "name": "Aura Farming",
+    "packages": {
+      "0": {
+        "type": "kill",
+        "rarity": "celestial",
         "preview": "/dismantle.mp4"
+      },
+      "1": {
+        "type": "kill",
+        "rarity": "ancient",
+        "preview": "/tnterrified.mp4"
+      },
+      "2": {
+        "type": "kill",
+        "rarity": "mythic",
+        "preview": "/explode.mp4"
       }
     }
   },
   {
     "name": "Goofies",
     "packages": {
+      "0": {
+        "type": "kill",
+        "rarity": "legendary",
+        "preview": "/dismantle.mp4"
+      },
+      "1": {
+        "type": "kill",
+        "rarity": "legendary",
+        "preview": "/explode.mp4"
+      },
       "7094182": {
         "type": "kill",
-        "rarity": "rare",
+        "rarity": "legendary",
         "preview": "/coconut.mp4"
       }
     }
