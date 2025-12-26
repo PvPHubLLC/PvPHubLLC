@@ -7,16 +7,16 @@
         "type": "kill",
         "rarity": "ancient",
         "preview": "/gift_wrapped.mp4"
-      }, 
-      "7094132": {
-        "type": "kill",
-        "rarity": "mythic",
-        "preview": "/snow_globe.mp4"
       },
       "7187932": {
         "type": "kill",
         "rarity": "mythic",
         "preview": "/snowman.mp4"
+      },
+      "7094132": {
+        "type": "kill",
+        "rarity": "legendary",
+        "preview": "/snow_globe.mp4"
       },
       "7187934": {
         "type": "kill",
