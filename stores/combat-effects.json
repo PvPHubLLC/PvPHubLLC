@@ -3,6 +3,11 @@
     "name": "🎁 Christmas Specials",
     "limited": true,
     "packages": {
+      "7193938": {
+        "type": "pack",
+        "rarity": "celestial",
+        "preview": "/christmas_pack.mp4"
+      },
       "7094142": {
         "type": "kill",
         "rarity": "ancient",
