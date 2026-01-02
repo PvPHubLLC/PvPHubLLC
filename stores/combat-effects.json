@@ -2,6 +2,7 @@
   {
     "name": "🎁 Christmas Specials",
     "limited": true,
+    "disabled": true,
     "packages": {
       "7193938": {
         "type": "pack",
