@@ -1,5 +1,37 @@
 [
   {
+    "name": "✨ NEW EFFECTS ✨",
+    "limited": true,
+    "disabled": false,
+    "packages": {
+      "7295609": {
+        "type": "pack",
+        "rarity": "pack",
+        "preview": "/heartstopper.mp4"
+      },
+      "7295593": {
+        "type": "kill",
+        "rarity": "epic",
+        "preview": "/awoooga.mp4"
+      },
+      "7295597": {
+        "type": "kill",
+        "rarity": "epic",
+        "preview": "/i_love_you.mp4"      
+      },
+      "7295602": {
+        "type": "kill",
+        "rarity": "legendary",
+        "preview": "/meteor.mp4"
+      },
+      "7295603": {
+        "type": "kill",
+        "rarity": "epic",
+        "preview": "/tick_tock.mp4"
+      }
+    }
+  },
+  {
     "name": "🎁 Christmas Specials",
     "limited": true,
     "disabled": true,
